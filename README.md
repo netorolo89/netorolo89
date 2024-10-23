@@ -1,5 +1,7 @@
 ## Hola! 👋 Hello!
 
+# Sobre mi...
+
 Soy Ernesto! Mucho gusto! ☺️
 
 Apasionado de los números y como todo se puede representar a través de ellos! 🤯🤯🤯 
