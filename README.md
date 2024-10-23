@@ -8,7 +8,7 @@ Recientemente he estado aprendiendo sobre ciencia de datos 👨‍🎓, y he ido
 
 Me gustan los videojuegos 🎮, cocinar 👨‍🍳 y leer 📖.
 
-También me puedes encontrar en ![Ernesto](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+También me puedes encontrar en ![](https://img.shields.io/badge/Ernesto-p?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fernesto-j-m-rodriguez-lopez)
 
 
 <!--
