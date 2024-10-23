@@ -4,7 +4,7 @@ Soy Ernesto! Mucho gusto! ☺️
 
 Apasionado de los números y como todo se puede representar a través de ellos! 🤯🤯🤯 
 
-Recientemente he estado aprendiendo sobre ciencia de datos por la razón mencionada previamente 👨‍🎓, y he ido encontrando formas de aplicarla sobre las tareas díarias y la creación de diferentes proyectos en los procesos laborales 👨‍💻. En los diferentes repositorios de este perfil, se encuentran diferentes proyectos en los que he trabajado 🖥️. 
+Recientemente he estado aprendiendo sobre ciencia de datos 👨‍🎓, y he ido encontrando formas de aplicarla sobre los procesos laborales 👨‍💻. En los diferentes repositorios de este perfil, se encuentran diferentes proyectos en los que he trabajado 🖥️. 
 
 Me gustan los videojuegos 🎮, cocinar 👨‍🍳 y leer 📖.
 
