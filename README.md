@@ -8,9 +8,7 @@ Recientemente he estado aprendiendo sobre ciencia de datos por la razón mencion
 
 Me gustan los videojuegos 🎮, cocinar 👨‍🍳 y leer 📖.
 
-También me puedes encontrar en https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-
-https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+También me puedes encontrar en ![Ernesto](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!--
