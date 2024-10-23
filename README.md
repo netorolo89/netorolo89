@@ -1,10 +1,17 @@
 ## Hola! 👋 Hello!
 
-Soy Ernesto! Mucho gusto!
+Soy Ernesto! Mucho gusto! ☺️
 
-Siempre me han gustado los números, y la forma en que todo se puede representar a través de ellos. Recientemente he estado aprendiendo sobre ciencia de datos por la razón mencionada previamente, y he ido encontrando formas de aplicarla sobre las tareas díarias y la creación de diferentes proyectos en los procesos laborales. Además, tambien he ido aprendiendo sobre finanzas e inversiones. 
+Apasionado de los números y como todo se puede representar a través de ellos! 🤯🤯🤯 
 
-En las oportunidades laborales que he tenido, he tratado de dejar huella y participar activamente en la mejora de procesos. También me gusta mantener mi mente activa, por lo que constantemente busco seguir aprendiendo del tema que sea, técnicos o hobbies.
+Recientemente he estado aprendiendo sobre ciencia de datos por la razón mencionada previamente 👨‍🎓, y he ido encontrando formas de aplicarla sobre las tareas díarias y la creación de diferentes proyectos en los procesos laborales 👨‍💻. En los diferentes repositorios de este perfil, se encuentran diferentes proyectos en los que he trabajado 🖥️. 
+
+Me gustan los videojuegos 🎮, cocinar 👨‍🍳 y leer 📖.
+
+También me puedes encontrar en https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+
+https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 <!--
 **netorolo89/netorolo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
