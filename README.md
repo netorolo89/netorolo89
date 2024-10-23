@@ -4,7 +4,7 @@
 
 Soy Ernesto! Mucho gusto! ☺️
 
-Apasionado de los números y como todo se puede representar a través de ellos! 🤯🤯🤯 
+Apasionado de los números y como todo se puede representar a través de ellos! 🤯
 
 Recientemente he estado aprendiendo sobre ciencia de datos 👨‍🎓, y he ido encontrando formas de aplicarla sobre los procesos laborales 👨‍💻. En los repositorios de este perfil, se encuentran diferentes proyectos en los que he trabajado 🖥️. 
 
